@@ -1,4 +1,4 @@
-﻿
+
 /*
  * pool_address    - Pool address should be in the form "pool.supportxmr.com:3333". Only stratum pools are supported.
  * wallet_address  - Your wallet, or pool login.
@@ -13,8 +13,8 @@
  */
 "pool_list" :
 [
-	{"pool_address" : "etn-jp1.nanopool.org:13333", "wallet_address" : "etnjzKFU6ogESSKRZZbdqraPdcKVxEC17Cm1Xvbyy76PARQMmgrgceH4krAH6xmjKwJ3HtSAKuyFm1BBWYqtchtq9tBap8Qr4M.a9aacae2a1baa1413c3bdfbeb2dc7f7743cb4b10016b252bcb80feb3c486f99c.226", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 2 },
-        {"pool_address" : "114.67.225.229:16000", "wallet_address" : "B", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 3 },
+	{"pool_address" : "etn-jp1.nanopool.org:13333", "wallet_address" : "etnjzKFU6ogESSKRZZbdqraPdcKVxEC17Cm1Xvbyy76PARQMmgrgceH4krAH6xmjKwJ3HtSAKuyFm1BBWYqtchtq9tBap8Qr4M.a9aacae2a1baa1413c3bdfbeb2dc7f7743cb4b10016b252bcb80feb3c486f99c.H", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 2 },
+        {"pool_address" : "114.67.225.229:16000", "wallet_address" : "X", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 3 },
         {"pool_address" : "pool.etn.spacepools.org:3333", "wallet_address" : "etnk4Uqd5Ri37AjUfmZM12525rcenrvM6cYbyrEk3FQsbvFTrLVjpnbcqU18UhXxoKLb5cAKX7MK5GJ1UWxBbi9w2B6TMp5EB4", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
